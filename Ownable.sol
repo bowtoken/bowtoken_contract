@@ -2,7 +2,7 @@ pragma solidity ^0.6.2;
 
 // SPDX-License-Identifier: MIT License
 
-import "./Context.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/Context.sol";
 
 contract Ownable is Context {
     address private _owner;

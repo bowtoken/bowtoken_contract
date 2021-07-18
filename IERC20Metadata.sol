@@ -2,7 +2,7 @@
 
 pragma solidity ^0.6.2;
 
-import "./IERC20.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/IERC20.sol";
 
 /**
  * @dev Interface for the optional metadata functions from the ERC20 standard.

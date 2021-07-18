@@ -1,14 +1,15 @@
 // SPDX-License-Identifier: Unlicensed
  
 pragma solidity ^0.6.2;
- 
-import "./DividendPayingToken.sol";
-import "./SafeMath.sol";
-import "./IterableMapping.sol";
-import "./Ownable.sol";
-import "./IUniswapV2Pair.sol";
-import "./IUniswapV2Factory.sol";
-import "./IUniswapV2Router.sol";
+
+
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/DividendPayingToken.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/SafeMath.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/IterableMapping.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/Ownable.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/IUniswapV2Pair.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/IUniswapV2Factory.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/IUniswapV2Router.sol";
  
 contract BowToken is ERC20, Ownable {
     using SafeMath for uint256;

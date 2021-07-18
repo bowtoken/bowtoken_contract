@@ -2,10 +2,10 @@
 
 pragma solidity ^0.6.2;
 
-import "./IERC20.sol";
-import "./IERC20Metadata.sol";
-import "./Context.sol";
-import "./SafeMath.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/IERC20.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/IERC20Metadata.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/Context.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/SafeMath.sol";
 
 /**
  * @dev Implementation of the {IERC20} interface.

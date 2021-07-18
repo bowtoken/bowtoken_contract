@@ -2,12 +2,12 @@
 
 pragma solidity ^0.6.2;
 
-import "./ERC20.sol";
-import "./SafeMath.sol";
-import "./SafeMathUint.sol";
-import "./SafeMathInt.sol";
-import "./DividendPayingTokenInterface.sol";
-import "./DividendPayingTokenOptionalInterface.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/ERC20.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/SafeMath.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/SafeMathUint.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/SafeMathInt.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/DividendPayingTokenInterface.sol";
+import "https://github.com/bowtoken/bowtoken_contract/blob/main/DividendPayingTokenOptionalInterface.sol";
 
 
 /// @title Dividend-Paying Token
